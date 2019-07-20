@@ -5,4 +5,4 @@ This is a simple TCP Packet sniffer. It uses raw sockets to sniff packets. Hence
 # Pre-requisites
 **tabulate** module has been installed to tabulate the results
 
-``` pip install tabulate ´´´
+` pip install tabulate ´
